@@ -1,0 +1,9 @@
+#163040 : Azul
+
+#255937 : Verde
+
+#F2E2C4 : su blanco
+
+#F2A444 : amarillo
+
+#0D0D0D : Negro
